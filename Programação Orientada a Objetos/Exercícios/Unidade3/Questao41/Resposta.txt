@@ -1,0 +1,5 @@
+O objetivo de uma classe abstrata é fornecer uma super classe (classe base) para que outras herdem. Serve de modelo para as classes filhas (sub classes). Declarada pela palavra-chave abstract, e o método não pode ter um corpo.
+
+Se uma classe contém um método abstrato, ela também precisa ser abstrata.
+
+Uma classe abstrata não pode ser instanciada diretamente, o objeto da classe não pode ser criado diretamente usando a palavra-chave, so pelas classes filhas (sub classes) concreta, que é um tipo de subclasse, que implementa os métodos abstratos de sua classe super (classe base) abstrata à qual se estende.
