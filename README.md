@@ -2,7 +2,7 @@
 
 # Sobre
 
-Assuntos estudados na disciplina "Progamação Orientada a Objeto - POO".
+Assuntos estudados na disciplina "Programação Orientada a Objeto - POO".
   
 - Assuntos lecionados pelo (Professor; Ítalo Assis).
 
